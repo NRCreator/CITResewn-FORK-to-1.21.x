@@ -1,4 +1,4 @@
-# CIT Resewn — LEGACY/STANDALONE FORK for 1.21.x
+# CIT Resewn — LEGACY/STANDALONE FORK to 1.21.x
 
 This is an unofficial fork of the original [CIT Resewn](https://modrinth.com/mod/cit-resewn) mod, updated to work on **Minecraft 1.21.x** (tested on 1.21.4).
 
