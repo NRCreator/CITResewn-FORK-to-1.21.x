@@ -51,7 +51,7 @@ It includes:
 `citresewn-legacy-v0.9.1-1.21.x.jar`
 
 **For the STANDALONE version, install:**  
-*(coming soon — will be named `citresewn-standalone-v0.9.1-1.21.x.jar`)*
+*(coming soon — will be named* `citresewn-standalone-v0.9.1-1.21.x.jar`)
 
 ---
 
