@@ -60,6 +60,6 @@ It includes:
 This fork is based on the source code by **[Bittorn](https://github.com/Bittorn)**, who did the initial porting work for 1.21.4.
 
 *   **Original Bittorn's repository:** [Bittorn/CITResewn-1.21.4](https://github.com/Bittorn/CITResewn-1.21.4)
-*   **Full Changelog for Fabric 1.21.4:** [Fabric 1.21.4 changes.md](https://github.com/Bittorn/CITResewn-1.21.4/blob/main/Fabric%201.21.4%20changes.md)
-*   **Full Changelog for Fabric 1.21.2:** [Fabric 1.21.2 changes.md](https://github.com/Bittorn/CITResewn-1.21.4/blob/main/Fabric%201.21.2%20changes.md)
+*   **Full Changelog for Fabric 1.21.4+:** [Fabric 1.21.4 changes.md](https://github.com/Bittorn/CITResewn-1.21.4/blob/main/Fabric%201.21.4%20changes.md)
+*   **Full Changelog for Fabric 1.21.2+:** [Fabric 1.21.2 changes.md](https://github.com/Bittorn/CITResewn-1.21.4/blob/main/Fabric%201.21.2%20changes.md)
 *   All credit for the original mod goes to **SHsuperCM**. This is just a maintenance fork to keep it alive on newer versions.
