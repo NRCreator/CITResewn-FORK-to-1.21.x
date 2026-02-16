@@ -48,7 +48,7 @@ It includes:
 5.  Put your desired CIT resource packs into the `resourcepacks` folder and activate them in-game.
 
 **For the LEGACY version, install:**  
-`citresewn-legacy-v0.9.1-1.21.4.jar`
+`citresewn-legacy-v0.9.1-1.21.x.jar`
 
 **For the STANDALONE version, install:**  
 *(coming soon — will be named `citresewn-standalone-v0.9.1-1.21.x.jar`)*
